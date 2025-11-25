@@ -14,4 +14,5 @@
 
 ### 联系我
 
-邮箱：Miraculy@wzzsite.top（不定时上线检查）
+个人邮箱：Miraculy@wzzsite.top（不定期上线检查）
+CNEL & Aiwb相关：weizhizhuang@smart-teach.cn（不定期上线检查）
