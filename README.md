@@ -2,6 +2,10 @@
 
 ### 关于我
 
+<p align="center">
+  <img src="Miraculy-logo.png" width="300" height="200" alt="logo">
+</p>
+
 > 行走在科技（仓库）与人文（文档）的交界线上。别问为啥在交界线上，问就是剩下两边都不会。
 
 ### 统计数据
